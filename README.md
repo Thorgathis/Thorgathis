@@ -13,6 +13,4 @@
   <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg title="VScode" **alt="VScode" width="40" height="40"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg title="Putty" **alt="Putty" width="40" height="40"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg title="Win10" **alt="win10" width="40" height="40"/>
-  
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thorgathis)](https://github.com/anuraghazra/github-readme-stats)
