@@ -14,3 +14,8 @@
   <img src=https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg title="Putty" **alt="Putty" width="40" height="40"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg title="Win10" **alt="win10" width="40" height="40"/>
 </div>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorgathis&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorgathis&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark"/>
+</p>
