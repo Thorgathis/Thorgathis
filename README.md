@@ -1,5 +1,5 @@
-<div>
-  <img src="https://github.com/Thorgathis/Thorgathis/blob/master/back-logo.png" title="Logo" **alt="Logo" width="1067" height="600"/>
+<div align="center">
+  <img src="https://github.com/Thorgathis/Thorgathis/blob/master/back-logo.png" title="Logo" **alt="Logo" width="640" height="360"/>
 </div>
 <h1 align="center">Hi there, I'm Thorgathis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
