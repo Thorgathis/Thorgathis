@@ -5,17 +5,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java developer, Html developer, Minecraft developer</h3>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
-  <img src= https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg title="GitLab" **alt="GitLab" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg title="VS" **alt="VS" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg title="VScode" **alt="VScode" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg title="Putty" **alt="Putty" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg title="Win10" **alt="win10" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg title="HTML5" **alt="HTML5" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg title="CSS3" **alt="CSS3" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg title="DEBIAN" **alt="HTML5" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg title="JAVA" **alt="JAVA" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg title="JS" **alt="JS" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg title="JETBRAINS" **alt="JETBRAINS" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg title="PYTHON" **alt="PYTHON" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg title="UBUNTU" **alt="UBUNTU" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg title="VISUALSTUDIO" **alt="VISUALSTUDIO" width="40" height="40"/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg title="VSCODE" **alt="UBUNTU" width="40" height="40"/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg title="FIREFOX" **alt="FIREFOX" width="40" height="40"/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg title="FIGMA" **alt="FIGMA" width="40" height="40"/>
 </div>
 
 <p>
