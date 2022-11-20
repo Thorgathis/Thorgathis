@@ -29,11 +29,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorgathis&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark"/>
 </p>
 <div>
-
----
-
-<div align='center'>
-
-![](https://komarev.com/ghpvc/?username=Thorgathis&label=Profile+Views)
-
-</div>
