@@ -1,8 +1,8 @@
-<img src="https://github.com/Thorgathis/Thorgathis/blob/master/back-logo.png" alt="name banner" />
 
-<div align="center">
-</div>
+<img src="https://github.com/Thorgathis/Thorgathis/blob/master/back-logo.png" alt="name banner" />
+                                                                                                                          
 <h1 align="center">Hi there, I'm Thorgathis</a> 
+
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java developer, Html developer, Minecraft developer</h3>
 
