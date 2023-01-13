@@ -24,8 +24,11 @@
   <img src=https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg title="FIGMA" **alt="FIGMA" width="40" height="40"/>
 </div>
 
-### GitHub Stats 📈
+<!--  ### GitHub Stats 📈 -->
+<!-- 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Thorgathis&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorgathis&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark"/>
 <div>
+--> 
+
