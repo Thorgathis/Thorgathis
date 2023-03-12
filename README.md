@@ -12,7 +12,7 @@
 <div align="center">
 <img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg title="HTML5" **alt="HTML5" width="40" height="40"/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg title="CSS3" **alt="CSS3" width="40" height="40"/>
-    <img src=https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg title="DEBIAN" **alt="HTML5" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg title="DEBIAN" **alt="DEBIAN" width="40" height="40"/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg title="JAVA" **alt="JAVA" width="40" height="40"/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg title="JS" **alt="JS" width="40" height="40"/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg title="JETBRAINS" **alt="JETBRAINS" width="40" height="40"/>
