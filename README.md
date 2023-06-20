@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Thorgathis/Thorgathis/blob/master/Frame 1.png" alt="name banner" />
+<img src="https://github.com/Thorgathis/Thorgathis/blob/master/Frame 1.png" width="28px" alt="name banner" />
                                                                                                                           
 <h1 align="center">
   <a>Hi there, I'm Thorgathis </a>
