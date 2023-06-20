@@ -3,7 +3,7 @@
                                                                                                                           
 <h1 align="center">
   <a>Hi there, I'm Thorgathis </a>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="28px" />
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32px" />
 </h1>
 
 <h3 align="center">Java developer, Html developer, Minecraft developer</h3>
