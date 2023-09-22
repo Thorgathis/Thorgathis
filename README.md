@@ -2,7 +2,7 @@
 <img src="https://github.com/Thorgathis/Thorgathis/blob/master/Frame 1.png" alt="name banner" />
                                                                                                                           
 <h1 align="center">
-  <a>Hi there, I'm Thorgathis </a>
+  <p>Hi there, I'm Thorgathis </p>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32px" />
 </h1>
 
