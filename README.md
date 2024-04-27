@@ -17,7 +17,7 @@
     <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg title="JS" **alt="JS" width="40" height="40"/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg title="JETBRAINS" **alt="JETBRAINS" width="40" height="40"/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg title="PYTHON" **alt="PYTHON" width="40" height="40"/>
-    <img src=https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg title="UBUNTU" **alt="UBUNTU" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg title="UBUNTU" **alt="UBUNTU" width="40" height="40"/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg title="VISUALSTUDIO" **alt="VISUALSTUDIO" width="40" height="40"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg title="VSCODE" **alt="UBUNTU" width="40" height="40"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg title="FIREFOX" **alt="FIREFOX" width="40" height="40"/>
